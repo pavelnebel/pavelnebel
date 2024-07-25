@@ -1,25 +1,19 @@
-###
-
 <h1 align="center">Привет👋 Меня зовут Павел!</h1>
 
-###
 
 <h3 align="left"> Контакты: </h3>
 
-###
+Почта: nebel7496@gmail.com
 
+Мессенджер:
 <a href="https://t.me/pavelnebel" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </a>
 
-- 📫 My mails: nebel7496@gmail.com /
+
  
 
-###
-
 <h3 align="left">🛠 Технологии:</h3>
-
-###
 
 <div align="left">
   <img width="12" />
@@ -49,31 +43,8 @@
 </div>
 
 
-###
-
 <h3 align="left">🔥   Моя статистика :</h3>
 
-###
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavelnebel&layout=compact) 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelnebel&show_icons=true&theme=transparent) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavelnebel&layout=compact) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelnebel&show_icons=true&theme=transparent) 
 
-
-
-
-
-
-
-<!--
-**pavelnebel/pavelnebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
